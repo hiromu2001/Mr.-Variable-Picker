@@ -1,4 +1,3 @@
-# analytics.py (データ集計・安定化ロジックを強化)
 import csv
 import time
 from collections import deque, Counter
