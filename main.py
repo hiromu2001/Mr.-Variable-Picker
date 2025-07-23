@@ -1,9 +1,7 @@
-# main.py (顔検出をHaar Cascadeに変更)
 import cv2
 import time
 import os
 import numpy as np
-# onnxruntimeは不要になったので削除
 from openvino.runtime import Core
 from tracker import CentroidTracker
 from analytics import RetailMetrics, CsvLogger
