@@ -1,4 +1,3 @@
-# tracker.py (追跡終了を通知する機能を追加)
 import time
 from collections import OrderedDict
 from scipy.spatial import distance as dist
